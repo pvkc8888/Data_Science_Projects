@@ -39,7 +39,7 @@ count = 0
 #        count += 1
 #    big_list[count] += Dict[item]
 #for i in range(0, max(Dict.values()), variance):
-plt.hist(big_big_list, bins = 100)    
+plt.hist(big_big_list, bins = 100)
 #plt.bar(Dict.keys(), Dict.values())
 #from tkinter import Tk, Canvas, PhotoImage, mainloop
 #
@@ -51,3 +51,5 @@ plt.hist(big_big_list, bins = 100)
 #img = PhotoImage(file = 'sample.png')
 #w.create_image((0,0), img)
 #mainloop()
+
+# i dont know how to procees lol
